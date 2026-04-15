@@ -81,10 +81,10 @@
   "devDependencies": {
     "@types/lodash": "^4.14.182",
     "autoprefixer": "^10.4.7",
-    "aws-sdk": "^2.1157.0",
+    "aws-sdk": "^2.1693.0",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.0.15",
-    "webpack": "^5.104.1",
+    "webpack": "^5.106.1",
     "react-app-rewired": "^2.2.1"
   }
 }
