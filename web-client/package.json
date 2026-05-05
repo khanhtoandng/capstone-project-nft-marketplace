@@ -24,7 +24,7 @@
     "@types/react": "^18.0.9",
     "@types/react-router-dom": "^5.3.3",
     "@types/redux-logger": "^3.0.9",
-    "axios": "^1.15.0",
+    "axios": "^1.15.2",
     "chai": "^4.3.6",
     "dotenv": "^16.0.1",
     "ethereum-waffle": "^3.4.4",
@@ -84,7 +84,7 @@
     "aws-sdk": "^2.1693.0",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.0.15",
-    "webpack": "^5.106.1",
+    "webpack": "^5.106.2",
     "react-app-rewired": "^2.2.1"
   }
 }
